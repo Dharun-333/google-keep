@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=McLaren&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border box;
+}
+
+html{
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    background-color: white;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+    padding: 0 16px;
+}
